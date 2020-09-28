@@ -1,19 +1,20 @@
 # Práctica 2 - Guía de Estilo
 
-Se pretende elaborar una interfaz gráfica para el sitio Web de una academia de enseñanza ubicada en Alicante. El nombre del negocio es Academia DIW.
+Se pretende elaborar una interfaz gráfica para el sitio Web de una tienda de calzado ubicada en Alicante. El nombre del negocio es Calzados DIW.
 
 Después de hablar con los clientes se ha llegado a la conclusión de que su único objetivo es dar a conocer su negocio a través de Internet.
 
-Para ello debemos desarrollar una interfaz que sea sobre todo visual. Por ello nos han pedido que en la página principal pongamos una animación simpática con temática sobre educación.
+Para ello debemos desarrollar una interfaz que sea sobre todo visual. Por ello nos han pedido que en la página principal pongamos una animación simpática con temática sobre calzado.
 
 
 
 Contenido:
 
 -	Permitir la lectura del sitio en dos idiomas: Castellano e Inglés.
--	Tener cuatro secciones: ESO,Bachillerato,Ciclos y Universidad.
--	En las distintas ramas mostrar los distintos niveles de enseñanza o ramas junto con una breve descripción de los sistemas de enseñanza acompañados de fotografías de las distintas aulas.Para el nivel de ESO tendremos cuatro grupos(1,2,3 y 4),Bachillerato dos(1 y 2), Ciclos cuatro(pruebas de acceso grado medio, pruebas de acceso grado superior,administración e informática) y Universidad un único bloque explicativo.
+-	Tener cuatro secciones: Hombre,Mujer,Niño y Outlet.
+-	En las distintas ramas mostrar los distintos tipos de calzado junto con una breve descripción de los mismos acompañados de fotografías de las distintos tipos de calzado.Para la sección de Hombre tendremos cuatro grupos(Casual,Botas,Castellanos y Fiesta),para Mujer tres(Tacón,Plano y Fiesta), dos para Niño(Colegial y Otros) y para Outlet un único bloque.
 -	Mostrar la información de contacto con la dirección, el teléfono y un croquis de su ubicación.
+
 
 
 
