@@ -10,10 +10,10 @@ Para ello debemos desarrollar una interfaz que sea sobre todo visual. Por ello n
 
 Contenido:
 
-	Permitir la lectura del sitio en dos idiomas: Castellano e Inglés.
-	Tener cuatro secciones: ESO,Bachillerato,Ciclos y Universidad.
-	En las distintas ramas mostrar los distintos niveles de enseñanza o ramas junto con una breve descripción de los sistemas de enseñanza acompañados de fotografías de las distintas aulas.Para el nivel de ESO tendremos cuatro grupos(1,2,3 y 4),Bachillerato dos(1 y 2), Ciclos cuatro(pruebas de acceso grado medio, pruebas de acceso grado superior,administración e informática) y Universidad un único bloque explicativo.
-	Mostrar la información de contacto con la dirección, el teléfono y un croquis de su ubicación.
+-	Permitir la lectura del sitio en dos idiomas: Castellano e Inglés.
+-	Tener cuatro secciones: ESO,Bachillerato,Ciclos y Universidad.
+-	En las distintas ramas mostrar los distintos niveles de enseñanza o ramas junto con una breve descripción de los sistemas de enseñanza acompañados de fotografías de las distintas aulas.Para el nivel de ESO tendremos cuatro grupos(1,2,3 y 4),Bachillerato dos(1 y 2), Ciclos cuatro(pruebas de acceso grado medio, pruebas de acceso grado superior,administración e informática) y Universidad un único bloque explicativo.
+-	Mostrar la información de contacto con la dirección, el teléfono y un croquis de su ubicación.
 
 
 
