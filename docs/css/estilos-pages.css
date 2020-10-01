@@ -1,0 +1,55 @@
+body{
+    background-color:transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: #f1e5f1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    columns: #000000;;
+    
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #f1e5f1;
+    font-size: 1.5em;
+}
+
+table{
+    text-align: center;
+
+}
+table ul{
+    color: #f1e5f1;
+    font-size: 1em;
+
+}
+
+img{
+    border-radius: 30px;
+}
+
+table .descripcion{
+    width: 300px;
+    display: block;
+    text-align: left;
+}
+
+
+td h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+td img{
+    width: 25%;
+    border-radius: 30px;
+}
