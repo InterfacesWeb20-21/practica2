@@ -1,0 +1,19 @@
+.animación{
+	width:100px;
+	height:120px;
+	float:left;
+	
+}
+.cuerpoindex{
+	margin-left:20%;
+	margin-right:20%;
+	font-size:18px;
+}
+.instituto{
+	display:block;
+	margin:auto;
+	box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+	border: 1px solid #8a4419;
+	border-style: inset;
+	
+}

@@ -1,0 +1,197 @@
+.Cabecera{
+	float:left;
+	width: 100.15%;
+	padding:0.5em;
+	background-color:#030063;
+	vertical-align:center;
+	border-bottom:5px solid;
+	border-bottom-color:#808080;	
+	
+}
+.Logo{
+	width:100px;
+	height:100px;
+	float:left;	
+	margin-top:10px;
+	
+}
+.Logotipo{
+	width:100px;
+	height:100px;
+	margin-right:40px;
+	float:left;
+}
+nav{
+	width:100%;
+	display:inline-block;
+	font-family:Arial;
+
+
+}
+nav ul {	
+	
+	list-style:none;
+	
+
+}
+
+
+#nav li a {
+
+	background-color:#030063;
+	color:#0fc3ff;
+	border:2px solid #808080;
+	text-decoration:none;
+	padding:10px 15px;
+	display:block;
+	margin-right:3px;
+}
+#nav li a:hover {
+background-color:black;
+
+}
+#nav > li {
+float:left;
+margin-bottom:2px;
+min-width:16.5%;
+text-align:center;
+	
+}
+
+#nav li ul {
+
+	display:none;
+	position:absolute;
+	min-width:16%;
+	margin-bottom:2px;
+	
+	
+}
+#nav li:hover > ul {
+display:block;
+
+
+	
+}
+#nav li ul li {
+
+	position:relative;	
+	margin-bottom:2px;
+	
+}
+#nav li ul li ul {
+right:-140px;
+top:0;
+	
+}
+.pie{
+	border-top: solid 5px #808080;
+	width:100%;
+	text-align:center;
+	float:left;
+	background-color:#030063;
+}
+
+
+.imgp{
+	
+	margin-left:48.2%;
+}
+.contp{
+	float:left;
+	text-align:left;
+	margin-left:20px;
+	width:35%;
+	color:#0fc3ff;
+}
+
+.instituto{
+display:block;
+margin:auto;
+}
+.texto{
+    margin-left: 15%;
+	margin-right: 15%;
+	font-size:18px;
+	
+
+}	
+h1{
+	text-align: center;
+}
+
+
+.contenido{
+	margin:0 3% 0 3%;
+	clear:both;
+	
+}
+centrar{
+	text-align:center;
+}
+header{
+	
+	
+	top:0;
+	width:99%;
+	
+
+	
+}
+header h1{
+	color:#0fc3ff;
+	width:35%;
+	font-family:Impact;
+	margin-left:33.2%;
+	margin-top:30px;
+	
+}
+footer{
+	
+	margin-top:40px;
+	margin-bottom:0;
+	bottom:0;
+	clear:both;
+	
+}
+
+
+.Banderas{
+	text-align:right;
+	float:right;
+}
+.Bandera{
+	width:30px;
+	height:30px;
+	
+}
+body{
+	margin : 0;
+	padding: 0;
+	
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	height:65%;
+}
+
+.foto{
+	clear:both;
+
+}
+.centrar{
+	text-align:center;
+}
+html{
+	height:100%;
+}
+
+h1,h3{
+	 font-family: "Times New Roman";
+}
+section{
+	height:100%;
+}
+.centrarimagen{
+	margin-left:36.5%;
+	margin-right:35%;
+}
+

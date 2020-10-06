@@ -1,0 +1,78 @@
+main{
+	font-weight:650;
+}
+fieldset{
+	margin-left:3%;
+	margin-right:3%;
+	margin-bottom:30px;
+	font-size:17px;
+}
+legend{
+	border:1px solid gray;
+	background-color:#030063;
+	color:#03b7ec;
+	font-size:21px;
+}
+#consulta{
+	font-family:'Open Sans Condensed', arial, sans;
+	width:900px;
+	padding:30px;
+	margin:50px auto;
+	box-shadow:0px 0px 15px rgba(0, 0, 0, 0.22);
+}
+#formulario1{
+	font-family:'Open Sans Condensed', arial, sans;
+	width:900px;
+	padding:30px;
+	margin:50px auto;
+	box-shadow:0px 0px 15px rgba(0, 0, 0, 0.22);
+}
+h3{
+	background-color:#030063;
+	text-transform:uppercase;
+	color:#0fc3ff;
+	font-size:18px;
+	font-weight:bold;
+	padding:20px;
+	margin:-30px -30px 30px -30px;
+	border-bottom:1px solid gray;
+}
+#formulario1 input[type="text"],#formulario1 input[type="email"],#formulario1 textarea,#formulario1 select{
+	outline:none;
+	display:block;
+	width:100%;
+	padding:7px;
+	border:none;
+	border-bottom:1px solid #333;
+	background:transparent;
+	margin-bottom:10px;
+	height:35px;
+	background-color:white;
+	font:16px Arial, Helvetica, sans-serif;
+}
+#formulario1 input[type="reset"],#formulario1 input[type="submit"]{
+	background-color:#030063;
+	border:1px solid black;
+	cursor:pointer;
+	color:#03b7ec;
+	font-size:14px;
+	padding:8px 18px;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+#formulario1 input[type="reset"]:hover,#formulario1 input[type="submit"]:hover {
+	background-color:black;
+	color:#0fc3ff;
+}
+#texto{
+	height:50px;
+}
+iframe{
+	width:400px;
+	height:300px;
+	
+}
+#genero{
+	font-weight:200;
+	margin-bottom:10px;
+}

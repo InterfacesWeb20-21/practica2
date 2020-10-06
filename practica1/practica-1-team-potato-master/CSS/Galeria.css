@@ -1,0 +1,12 @@
+img{
+    height: 300px;
+    width: 400px;
+}
+.galeria{
+    float: right;
+    margin-right: 15%;
+}
+.lista{
+    float: left;
+    margin-right: 10%; 
+}

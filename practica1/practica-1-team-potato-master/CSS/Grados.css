@@ -1,0 +1,37 @@
+/*Tabla de grados*/
+table{ 
+	width:45%;
+	border-collapse: collapse;
+	border:1px solid black;
+	margin:auto;
+}
+caption{
+	background-color:#030063;
+	color:#0fc3ff;
+	font-weight:bold;
+	font-size:120%;
+    padding: 5px;
+    font-weight: bold;
+}
+th{
+	background-color:#808080;
+	width:70%;
+	color:white;
+	padding:0.5em;
+	border: 1px solid black;
+}
+td{
+	border:0;
+	background-color:white;
+	border-bottom: 1px solid black;
+	height:25px;
+	text-align:center;
+}
+table a:link, a:visited {
+  color: blue;
+  text-align: center;
+  text-decoration: none;
+}
+a:hover, a:active {
+  color: red;
+}
