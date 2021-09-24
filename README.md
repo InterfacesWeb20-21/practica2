@@ -23,10 +23,9 @@ Contenido:
 
 
 SE PIDE:
-1.	Realizar una clasificación de todos los elementos mencionados en el enunciado según sean: elementos de identificación, navegación, contenido o interacción.
-2.  Elaborar un esquema o boceto de la web en su pantalla inicial
-3.	Indica cuál es el tipo de estructura de navegación más adecuado y explica el motivo.
-4.  Utilizando alguna de las herramientas para elaborar mapas conceptuales, elabora el mapa de navegación de la web.
-5.	Elabora una guía de estilos indicando toda la información que debería figurar en función de los elementos que se han mencionado en el enunciado,conteniendo en ella los colores a utilizar,fuentes,imagenes,etc.
-
+1.	Realizar una clasificación de todos los elementos mencionados en el enunciado según sean: elementos de identificación, navegación, contenido o interacción.Punto 3
+2.	Indica cuál es el tipo de estructura de navegación más adecuado y explica el motivo.
+3.	Elabora una guía de estilos indicando toda la información que debería figurar en función de los elementos que se han mencionado en el enunciado,conteniendo en ella la paleta cromática ,tipografía , estilos, imagenes,etc.Punto 9 del tema
+4.  Elaborar un wireframe de la web en su pantalla inicial. Punto 10 del tema
+5.  Utilizando alguna de las herramientas para elaborar mapas conceptuales, elabora el mapa de navegación de la web.Punto 11 del tema
 
